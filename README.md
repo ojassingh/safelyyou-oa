@@ -64,7 +64,7 @@ The output in `results.txt` shows that expected and actual values matched for al
 
 ### Time spent / Hardest part
 
-This solution was kept intentionally small and focused on correctness first. The hardest part was making sure the uptime calculation matched the simulator's interpretation exactly while keeping the implementation easy to read.
+This took me about <2 hours. This solution was kept intentionally small and focused on correctness first. The hardest part was making sure the uptime calculation matched the simulator's interpretation exactly while keeping the approach very simple.
 
 ### Extensibility
 
